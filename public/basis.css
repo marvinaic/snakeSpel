@@ -1,0 +1,14 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+header
+{
+    width: 100%;
+    height: 90px;
+    border-bottom: solid #333 1px;
+    display: flex;
+}
+#titel{margin: 20px;}
+#logo{ height: 50px; width: 50px; margin: 20px;}
